@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Lalith Chandran
 
-<!--
-**lalithchandran/Lalithchandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc Computer Science  
+💻 Backend & AI Developer  
+🚀 Passionate about building AI-powered APIs and scalable backend systems  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- FastAPI
+- Docker
+- Vision LLM
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+🔹 [Handwritten OCR using Vision LLM](https://github.com/lalithchandran/Handwritten-ocr-vision-llm)
+
+---
+
+📫 Reach me: lalithchandran1310@gmail.com
