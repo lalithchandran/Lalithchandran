@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lalith Chandran
 
 🎓 M.Sc Computer Science  
-💻 Backend & AI Developer  
+💻 Software Developer | AI Enthusiast 
 🚀 Passionate about building AI-powered APIs and scalable backend systems  
 
 ## 🔧 Tech Stack
